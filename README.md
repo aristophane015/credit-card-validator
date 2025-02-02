@@ -1,5 +1,5 @@
 # credit-card-validator
-This is a simple JavaScript program to validate if a given credit card number is a valid Mastercard number.
+This is a simple JavaScript program to validate a valid Mastercard number.
 
 Features:
 Removes non-digit characters (like spaces or hyphens).
